@@ -1,0 +1,1 @@
+print("Dosya icine yazılan ilk yazı")
